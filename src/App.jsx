@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📘 coffee - 기초
+          📘 coffee
         </a>
         <a
           className="link-button"
@@ -36,7 +36,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📗 게시판 + MySQL
+          📗 cake
         </a>
       </div>
     </div>
