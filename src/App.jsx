@@ -9,8 +9,8 @@ function App() {
 
       <ProfileCard
         image={profileImg}
-        name="정지아"
-        description="신소재를 사랑하는 개발자입니다."
+        name="차소현"
+        description="커피를 사랑하는 개발자입니다."
       />
 
       <div className="link-area">
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📘 CHAPTER 3 - 기초
+          📘 coffee - 기초
         </a>
         <a
           className="link-button"
@@ -28,7 +28,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📙 CHAPTER 3 게시판 CRUD
+          📙 게시판 CRUD
         </a>
         <a
           className="link-button"
@@ -36,7 +36,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📗 CHAPTER 3 게시판 + MySQL
+          📗 게시판 + MySQL
         </a>
       </div>
     </div>
