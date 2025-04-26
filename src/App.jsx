@@ -1,11 +1,11 @@
 import './App.css';
 import ProfileCard from './components/ProfileCard';
-import profileImg from './assets/images/zi-a.png';
+import profileImg from './assets/images/zi-a.png'; ///이미지
 
 function App() {
   return (
     <div className="main-container">
-      <h1 className="title">정지아의 리액트 ✨</h1>
+      <h1 className="title">차소현의 리액트 ✨</h1>
 
       <ProfileCard
         image={profileImg}
