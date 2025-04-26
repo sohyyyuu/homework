@@ -1,6 +1,6 @@
 import './App.css';
 import ProfileCard from './components/ProfileCard';
-import profileImg from './assets/images/zi-a.png'; ///이미지
+import profileImg from './assets/images/coffee.png'; ///이미지
 
 function App() {
   return (
@@ -28,7 +28,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          📙 게시판 CRUD
+          📙 non-coffee
         </a>
         <a
           className="link-button"
